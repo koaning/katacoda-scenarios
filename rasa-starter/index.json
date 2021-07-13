@@ -29,7 +29,7 @@
       "text": "finish.md"
     }
   },
-  "environment": {"uilayout": "vscode"},
+  "environment": {"uilayout": "vscode-terminal-split"},
   "backend": {
     "imageid": "python:3.7"
   }
